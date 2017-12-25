@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.Window;
 import android.widget.TextView;
 
-import com.sxjs.common.R;
+import com.zhaobaoge.common.R;
 
 /**
  * Created by admin on 2017/3/13.

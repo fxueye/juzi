@@ -11,7 +11,7 @@ import android.view.animation.Transformation;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.sxjs.common.R;
+import com.zhaobaoge.common.R;
 
 /**
  * Class description

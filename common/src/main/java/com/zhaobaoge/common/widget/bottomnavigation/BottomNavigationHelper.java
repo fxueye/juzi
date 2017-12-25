@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewAnimationUtils;
 import android.widget.FrameLayout;
 
-import com.sxjs.common.R;
+import com.zhaobaoge.common.R;
 
 /**
  * Class description : This is utils class specific for this library, most the common code goes here.
